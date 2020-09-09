@@ -26,5 +26,5 @@
 
 ---
 
-[website]: https://jzqc07.github.io
+[website]: https://exemplarisk.github.io
 [linkedin]: https://www.linkedin.com/in/jonatan-schultz-777257105
