@@ -5,7 +5,7 @@
 ## Student at Systemutvecklare.NET - Borås Yrkeshögskola
 
 ### Spotify Playing 🎧
-[<img src="https://embed.beatport.com/?id=14059828&type=track" />]
+[<a href="https://embed.beatport.com/?id=14059828&type=track" /a>]
 
 ### Connect with me:
 
