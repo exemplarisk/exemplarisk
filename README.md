@@ -5,7 +5,7 @@
 ## Student at Systemutvecklare.NET - Borås Yrkeshögskola
 
 ### Spotify Playing 🎧
-<iframe src="spotify:track:41kfEFWpdmeCxyc5rgvNal" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonatan.1996&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
