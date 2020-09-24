@@ -1,11 +1,11 @@
 ### Hi there, I'm Jonatan - This is my profile👋
 
-[![Website]](https://jzqc07.github.io)
+[![Website]](https://exemplarisk.github.io)
 
 ## Student at Systemutvecklare.NET - Borås Yrkeshögskola
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jonatan.1996)
+[<img src="https://embed.beatport.com/?id=14059828&type=track" />]
 
 ### Connect with me:
 
