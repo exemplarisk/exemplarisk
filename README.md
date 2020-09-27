@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonatan - This is my profile👋
 
-[![website](https://exemplarisk.github.io)
+[website](https://exemplarisk.github.io)
 
 ## Student at Systemutvecklare.NET - Borås Yrkeshögskola
 
