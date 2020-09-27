@@ -1,11 +1,11 @@
 ### Hi there, I'm Jonatan - This is my profile👋
 
-[![Website]](https://exemplarisk.github.io)
+[![Website](https://exemplarisk.github.io)
 
 ## Student at Systemutvecklare.NET - Borås Yrkeshögskola
 
 ### Spotify Tips 🎧
-[![spotify-github-profile]](https://spotify-github-profile.vercel.app/api/view?uid=jonatan.1996&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonatan.1996&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
