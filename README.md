@@ -20,6 +20,10 @@
 - CSS
 - HTML
 - SQL
+- XAMARIN
+- AGILE
+- GIT
+- SCRUM
 
 <br />
 <br />
