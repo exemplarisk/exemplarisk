@@ -19,12 +19,16 @@
 - Javascript
 - CSS
 - HTML
+- REACT
+- MUI
+- NEXTJS
+- NODEJS
 - SQL
 - XAMARIN
 - AGILE
 - GIT
 - SCRUM
-
+- TEAMBUILDING
 <br />
 <br />
 
