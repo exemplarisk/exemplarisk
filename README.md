@@ -2,7 +2,7 @@
 
 [My Website](https://exemplarisk.github.io)
 
-## Student at Systemutvecklare.NET - Borås Yrkeshögskola
+## Current role - System Developer
 
 ### Spotify Tips 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonatan.1996&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
@@ -20,7 +20,8 @@
 - CSS
 - HTML
 - REACT
-- MUI
+- MaterialUI
+- Styled Components
 - NEXTJS
 - NODEJS
 - SQL
