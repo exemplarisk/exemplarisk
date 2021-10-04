@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 
-- C#
+- .NET Core
 - Javascript
 - CSS
 - HTML
