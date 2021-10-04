@@ -1,6 +1,5 @@
 ### Hi there, I'm Jonatan - This is my profile👋
 
-[My Website](https://exemplarisk.github.io)
 
 ## Current role - System Developer
 
@@ -34,6 +33,4 @@
 <br />
 
 ---
-
-[website]: https://exemplarisk.github.io
 [linkedin]: https://www.linkedin.com/in/jonatan-schultz-777257105
