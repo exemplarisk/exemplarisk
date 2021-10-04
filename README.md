@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonatan - This is my profile👋
 
 
-## Current role - System Developer
+## Current role - Full Stack Developer
 
 ### Spotify Tips 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonatan.1996&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
